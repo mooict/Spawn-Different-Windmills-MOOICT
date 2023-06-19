@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spawn Different Windmills MOOICT", "Spawn Different Windmills MOOICT\Spawn Different Windmills MOOICT.csproj", "{16B5C135-B041-49C6-BC4E-5B1CA7E1958C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B5C135-B041-49C6-BC4E-5B1CA7E1958C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B5C135-B041-49C6-BC4E-5B1CA7E1958C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B5C135-B041-49C6-BC4E-5B1CA7E1958C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B5C135-B041-49C6-BC4E-5B1CA7E1958C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C5A6FF3-B9D7-4848-AC15-3DF9CF72F350}
+	EndGlobalSection
+EndGlobal
