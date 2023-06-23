@@ -11,7 +11,7 @@ Lesson Objectives –
 - Use loops, functions and events in the project
 - Work with transparent images and make sure its all being dynamically painted on the form
 
-  # Video Tutorial - Click below to Watch this video no YouTube
+  # Video Tutorial - Click below to Watch this video on YouTube
 
 [![](http://img.youtube.com/vi/pktjftaRGAo/0.jpg)](https://www.youtube.com/watch?v=pktjftaRGAo "MOO ICT C# Video Tutorial")
 
